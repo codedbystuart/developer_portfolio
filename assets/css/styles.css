@@ -111,6 +111,10 @@
   justify-content: center;
 }
 
+.project-card {
+
+}
+
 .project-card .project-image {
   width: 100%;
   height: 186px;
@@ -213,7 +217,10 @@
 .technologies {
   width: 289px;
   height: 289px;
-  margin: 40px 16px;
+  margin-left: 16px;
+  margin-bottom: 16px;
+  padding-top: 50px;
+  padding-left: 50px;
   background: #1c528a;
   display: flex;
   flex-direction: column;
@@ -245,7 +252,10 @@
 .frameworks {
   width: 289px;
   height: 289px;
-  margin: 40px 16px;
+  margin-left: 16px;
+  margin-bottom: 16px;
+  padding-top: 50px;
+  padding-left: 50px;
   background: #e2505c;
   display: flex;
   flex-direction: column;
@@ -277,7 +287,10 @@
 .skills {
   width: 289px;
   height: 289px;
-  margin: 40px 16px;
+  margin-left: 16px;
+  margin-bottom: 16px;
+  padding-top: 50px;
+  padding-left: 50px;
   background: #febf52;
   display: flex;
   flex-direction: column;
