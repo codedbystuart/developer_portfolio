@@ -5,7 +5,7 @@
 
 /* Navbar CSS */
 .header {
-  background-image: url('../images/mobile/header.svg');
+  background-image: url("../images/mobile/header.svg");
   background-repeat: no-repeat;
   background-position: 0 0%;
   height: 130px;
@@ -34,7 +34,7 @@
   font-weight: 400;
   line-height: 50px;
   padding-bottom: 20px;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 .intro-description {
@@ -42,7 +42,7 @@
   font-weight: 400;
   line-height: 21px;
   padding-bottom: 40px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .intro-button {
@@ -55,7 +55,7 @@
   font-size: 16px;
   font-weight: 500;
   color: #fff;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .intro-button:hover {
@@ -68,7 +68,7 @@
   font-size: 16px;
   font-weight: 500;
   color: #1a2236;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .intro-button:active {
@@ -81,7 +81,7 @@
   font-size: 16px;
   font-weight: 500;
   color: #1a2236;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 /* Projects */
@@ -101,7 +101,7 @@
   color: #1a2236;
   line-height: 50px;
   font-weight: 400;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   padding-bottom: 32px;
 }
 
@@ -114,7 +114,7 @@
 .project-card .project-image {
   width: 100%;
   height: 186px;
-  background-image: url('../images/mobile/project-image.png');
+  background-image: url("../images/mobile/project-image.png");
 }
 
 .project-card .project-info {
@@ -130,7 +130,7 @@
   font-size: 20px;
   font-weight: 300;
   line-height: 16px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin-left: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -140,7 +140,6 @@
   /* display: flex;
   flex-direction: row; */
   margin-left: 20px;
-
 }
 
 .project-card .project-info .project-detail-btn {
@@ -175,7 +174,7 @@
   color: #1a2236;
   font-size: 10.33px;
   font-weight: 300;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   float: left;
 }
 
@@ -189,7 +188,7 @@
   font-weight: 400;
   line-height: 50px;
   color: #1a2236;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 .about-me .about-desc {
@@ -328,7 +327,7 @@
   font-size: 50px;
   font-weight: 400;
   line-height: 50px;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 .contact-area .contact-desc {
@@ -336,7 +335,7 @@
   line-height: 21px;
   font-weight: 400;
   margin-top: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .contact-area .contact-form {
@@ -359,7 +358,7 @@
   color: #7d7c84;
   line-height: 15px;
   font-weight: 400;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   padding-top: 4px;
   padding-left: 16px;
 }
@@ -374,7 +373,7 @@
   color: #7d7c84;
   line-height: 15px;
   font-weight: 400;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   padding-top: 15px;
   padding-left: 16px;
   margin-bottom: 20px;
@@ -392,7 +391,7 @@
   color: #92dcdc;
   line-height: 24px;
   font-weight: 500;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .footer-icon {
