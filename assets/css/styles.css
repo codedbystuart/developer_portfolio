@@ -137,9 +137,10 @@
 }
 
 .project-card .project-info .tech-list {
-  display: flex;
-  flex-direction: row;
+  /* display: flex;
+  flex-direction: row; */
   margin-left: 20px;
+
 }
 
 .project-card .project-info .project-detail-btn {
@@ -175,6 +176,7 @@
   font-size: 10.33px;
   font-weight: 300;
   font-family: 'Poppins', sans-serif;
+  float: left;
 }
 
 /* About CSS */
