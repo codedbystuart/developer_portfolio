@@ -56,6 +56,7 @@
   font-weight: 500;
   color: #fff;
   font-family: 'Poppins', sans-serif;
+  cursor: pointer;
 }
 
 .intro-button:hover {
@@ -69,6 +70,7 @@
   font-weight: 500;
   color: #1a2236;
   font-family: 'Poppins', sans-serif;
+  cursor: pointer;
 }
 
 .intro-button:active {
@@ -82,6 +84,7 @@
   font-weight: 500;
   color: #1a2236;
   font-family: 'Poppins', sans-serif;
+  cursor: pointer;
 }
 
 /* Projects */
@@ -159,6 +162,26 @@
   font-size: 16px;
   padding: 5px;
   line-height: 24px;
+  cursor: pointer;
+}
+
+.project-card .project-info .project-detail-btn:hover {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 178px;
+  height: 44px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px !important;
+  border: 1px solid #fff;
+  color: black;
+  background: #e5e5e5;
+  font-size: 16px;
+  padding: 5px;
+  line-height: 24px;
+  cursor: pointer;
 }
 
 .project-card .project-info .project-detail-btn .details-btn-icon {
