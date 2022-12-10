@@ -136,7 +136,8 @@
   <section class="about-me">
     <h1 class="about-title">About</h1>
     <p class="about-desc">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ea eiusmod
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+      magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ea eiusmod
     </p>
     <button class="intro-button resume-btn">
       Get My CV
@@ -180,18 +181,20 @@
     <div class="clear"></div>
     <h1 class="contact-title">Get Started</h1>
     <p class="contact-desc">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+      magna.
     </p>
 
-    <form action="#" class="contact-form">
-        <input type="text" name="fullname" class="form-field input" id="" placeholder="Your Name">
+    <form action="https://formspree.io/f/xwkzgodj" class="contact-form" method="post">
+      <input type="text" name="fullname" class="form-field input" maxlength="30" placeholder="Your Name" required>
 
-        <input type="email" name="" class="form-field input" id="" placeholder="Your Email">
+      <input type="email" name="" class="form-field input" id="" placeholder="Your Email" required>
 
-        <textarea name="" id="" class="form-field text-area" cols="30" rows="10" placeholder="Enter your message here..."></textarea>
-        <button type="submit" class="intro-button">
-          Start Collobartion
-        </button>
+      <textarea name="" maxlength="500" class="form-field text-area" cols="30" rows="10"
+        placeholder="Enter your message here..." required></textarea>
+      <button type="submit" class="intro-button">
+        Start Collobartion
+      </button>
     </form>
   </section>
 
