@@ -140,8 +140,6 @@
 }
 
 .project-card .project-info .tech-list {
-  display: flex;
-  flex-direction: row;
   margin-left: 20px;
 }
 
@@ -188,6 +186,7 @@
 }
 
 .project-card .project-info .tech-list .tech-item {
+  float: left;
   list-style: none;
   margin-right: 8px;
   white-space: nowrap;
